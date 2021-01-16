@@ -1,0 +1,31 @@
+
+	
+
+.navbar-first {
+    background-color: fff;
+    border-color: fff;
+}
+
+.form-control {
+	width: 100%;
+}
+
+.socialmedia {
+	padding-top: 30px;
+	
+}
+
+.container-fluidDown {
+	background-color: #626567;
+	height: 200px;
+	padding-top: 35px;
+	font-size: 20px;
+
+}
+
+.center {
+	text-align: center;
+	padding-top: 75px;
+	color: #fff;
+	font-size: 12px;
+}
